@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("zhelishihot-fix2222~");
         System.out.println("push");
         System.out.println("pull it!");
+        System.out.println("pull2022");
     }
 }
